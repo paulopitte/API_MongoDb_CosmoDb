@@ -1,0 +1,15 @@
+2022-02-14 17:17:09.523 -03:00 [Information] Application initialized
+2022-02-14 17:17:32.975 -03:00 [Information] Application initialized
+2022-02-14 17:18:03.840 -03:00 [Information] Application initialized
+2022-02-14 17:18:22.216 -03:00 [Information] Application initialized
+2022-02-14 17:19:00.615 -03:00 [Information] Application initialized
+2022-02-14 17:20:04.346 -03:00 [Information] Application initialized
+2022-02-14 17:20:35.539 -03:00 [Information] Application initialized
+2022-02-14 17:21:19.388 -03:00 [Information] Application initialized
+2022-02-14 17:22:34.710 -03:00 [Information] Application initialized
+2022-02-14 17:23:15.874 -03:00 [Information] Application initialized
+2022-02-14 17:24:01.900 -03:00 [Information] Application initialized
+2022-02-14 17:26:26.103 -03:00 [Information] Application initialized
+2022-02-14 17:26:47.784 -03:00 [Information] Application initialized
+2022-02-14 17:27:20.786 -03:00 [Information] Application initialized
+2022-02-14 17:30:12.838 -03:00 [Information] Application initialized
